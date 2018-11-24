@@ -1,2 +1,2 @@
 # PRML
-Code for studying PRML
+Code for studying ML
